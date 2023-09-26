@@ -1,2 +1,2 @@
 console.log("index.js")
-console.log("This is a version 1")
+console.log("This is a version 2")
