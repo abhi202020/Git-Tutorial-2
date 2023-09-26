@@ -1,2 +1,2 @@
 console.log("config.js")
-console.log("This is a version 2")
+console.log("This is a version 3")
